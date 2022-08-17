@@ -1,0 +1,4 @@
+﻿  health.c
+C:\C_Project\C_004_class\C_004_class\health.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\C_Project\C_004_class\C_004_class\health.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  C_004_class.vcxproj -> C:\C_Project\C_004_class\x64\Debug\C_004_class.exe
